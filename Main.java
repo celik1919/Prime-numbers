@@ -9,10 +9,10 @@ public class Main {
             for(int n=1;n<=i;n++){
                 if(i%n==0){
                     k++;
-                    System.out.println(k);
+                    
                 }
             }if(k==2){
-                System.out.print(i+" a");
+                System.out.print(i+" ");
             }
         }
     }
